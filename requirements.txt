@@ -1,0 +1,4 @@
+theano
+tensorflow
+matplotlib
+jupyter
